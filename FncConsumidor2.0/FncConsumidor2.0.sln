@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FncConsumidor2.0", "FncConsumidor2.0\FncConsumidor2.0.csproj", "{E3603C0F-FA44-4F93-ADDF-3553E62AAA27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FncConsumidor2.0", "FncConsumidor2.0\FncConsumidor2.0.csproj", "{E3603C0F-FA44-4F93-ADDF-3553E62AAA27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
